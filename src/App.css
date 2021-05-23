@@ -1,0 +1,50 @@
+:root{
+    padding: 100px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #F1F2F4;
+}
+.App{
+    background: #fff;
+    width: 328px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px 17px;
+    font-family: Lato, sans-serif;
+    color: #152242;
+}
+.App-title{
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    margin-left: 13px;
+    margin-right: 13px;
+    margin-bottom: 5px;
+}
+.bank{
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    padding-left: 57px;
+    height: 48px;
+    position: relative;
+    background-color: #FFFFFF;
+    background-image: var(--logo);
+    background-position: left 15px center;
+    background-repeat: no-repeat;
+}
+
+.bankSelected {
+    background-color: #F1F2F4;
+    background-image: var(--logo), url(./logos/card.svg);
+    background-position: left 15px center, right 15px center;
+}
+
+.input-bank{
+    display: none;
+}
+
+
+
