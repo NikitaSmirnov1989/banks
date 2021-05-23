@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/banks/static/css/main.1eb4ad6b.chunk.css",
+    "main.js": "/banks/static/js/main.e2d0da5b.chunk.js",
+    "main.js.map": "/banks/static/js/main.e2d0da5b.chunk.js.map",
+    "runtime-main.js": "/banks/static/js/runtime-main.c1c745c9.js",
+    "runtime-main.js.map": "/banks/static/js/runtime-main.c1c745c9.js.map",
+    "static/js/2.0de769f3.chunk.js": "/banks/static/js/2.0de769f3.chunk.js",
+    "static/js/2.0de769f3.chunk.js.map": "/banks/static/js/2.0de769f3.chunk.js.map",
+    "index.html": "/banks/index.html",
+    "static/css/main.1eb4ad6b.chunk.css.map": "/banks/static/css/main.1eb4ad6b.chunk.css.map",
+    "static/js/2.0de769f3.chunk.js.LICENSE.txt": "/banks/static/js/2.0de769f3.chunk.js.LICENSE.txt",
+    "static/media/alfa.b5cdeaa5.svg": "/banks/static/media/alfa.b5cdeaa5.svg",
+    "static/media/App.css": "/banks/static/media/card.a8f59de2.svg",
+    "static/media/gazprom.2e9f78c0.svg": "/banks/static/media/gazprom.2e9f78c0.svg",
+    "static/media/otkritie.088c5955.svg": "/banks/static/media/otkritie.088c5955.svg",
+    "static/media/promsvyz.8ac00230.svg": "/banks/static/media/promsvyz.8ac00230.svg",
+    "static/media/raiffaizen.9f49866f.svg": "/banks/static/media/raiffaizen.9f49866f.svg",
+    "static/media/rosbank.cd95d84c.svg": "/banks/static/media/rosbank.cd95d84c.svg",
+    "static/media/rosselhoz.e5c3f265.svg": "/banks/static/media/rosselhoz.e5c3f265.svg",
+    "static/media/sber.2d46d48d.svg": "/banks/static/media/sber.2d46d48d.svg",
+    "static/media/unicredit.bd39ffaa.svg": "/banks/static/media/unicredit.bd39ffaa.svg",
+    "static/media/vtb.9ad6deee.svg": "/banks/static/media/vtb.9ad6deee.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1c745c9.js",
+    "static/js/2.0de769f3.chunk.js",
+    "static/css/main.1eb4ad6b.chunk.css",
+    "static/js/main.e2d0da5b.chunk.js"
+  ]
+}
