@@ -1,0 +1,28 @@
+.typeObject{
+    display: block;
+}
+.radioSelect{
+    background: #fff;
+    width: 328px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px 17px;
+    font-family: Lato, sans-serif;
+    color: #152242;
+}
+.radioSelect__title{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    margin-left: 13px;
+    margin-right: 13px;
+    margin-bottom: 5px;
+}
+.typeObject{
+    display: flex;
+    align-items: center;
+}
+.typeObject span{
+    margin-right: 10px;
+}
